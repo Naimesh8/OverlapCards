@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OverlapCards</string>
+    <string name="bottom_default_cta">Button_cta for position = 1</string>
+</resources>
